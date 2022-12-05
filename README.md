@@ -2,7 +2,6 @@
 
 A Telegram Chatbot written in Python3, making use of OpenAI's GPT3 model (Da Vinci Engine). You can fork and deploy this repo on heroku.
 
-by: Amadeus 
 
 # Steps to get your python chatbot working
 - Fork this repository 
@@ -29,7 +28,7 @@ por: Amadeus
 - Torne seu repositório bifurcado privado para manter suas chaves openAI e Telegram seguras.
 - Agora edite o arquivo 'itsinho_bot.py' e substitua as chaves pelas que você copiou.
 - Salve o arquivo
-- Abra <a href='https://dashboard.heroku.com'>heroku</a>, registre-se ou faça login em sua conta. Se você não sabe como fazer isso, <a href='https://youtu.be/uFWd9ivmuUI'>assista a este vídeo</a>.
+- Abra <a href='https://dashboard.heroku.com'>heroku</a>, registre-se ou faça login em sua conta.
 - Criar uma nova aplicação
 - Vá para as configurações, adicione um novo buildpack, ou seja, python, pois criamos o chatbot em python
 - Agora, na guia de implantação, vincule sua conta do github e implante o repositório que você acabou de bifurcar.
