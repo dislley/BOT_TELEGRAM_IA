@@ -21,7 +21,6 @@ A Telegram Chatbot written in Python3, making use of OpenAI's GPT3 model (Da Vin
 
 Um Telegram Chatbot escrito em Python3, fazendo uso do modelo GPT3 da OpenAI (Da Vinci Engine). Você pode bifurcar e implantar este repositório no heroku.
 
-por: Amadeus
 
 # Etapas para fazer seu chatbot python funcionar
 - Fork este repositório
